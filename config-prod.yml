@@ -1,1 +1,2 @@
-master feil(prod),springcloud-config/config-prod.yml version=1
+config:
+  info: master feil(prod),springcloud-config/config-prod.yml version=1
