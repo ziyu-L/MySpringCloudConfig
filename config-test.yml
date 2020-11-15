@@ -1,1 +1,2 @@
-dev feil(test),springcloud-config/config-test.yml version=1
+config:
+  info: dev feil(test),springcloud-config/config-test.yml version=1
